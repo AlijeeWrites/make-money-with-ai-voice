@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alijeewrites.github.io/make-money-with-ai-voice/sitemap.xml
